@@ -3,7 +3,7 @@
 A machine learning project that recommends **movies** and **web series** based on user input and past ratings.  
 The system uses **content-based filtering** and **collaborative filtering** to generate personalized recommendations.  
 
----
+
 
 ## 🚀 Features  
 
@@ -18,14 +18,14 @@ The system uses **content-based filtering** and **collaborative filtering** to g
 - Works the same way as the movie recommender  
 - Provides **content-based** recommendations for series  
 
----
+
 
 ## 📂 Dataset  
 
 - **MovieLens (ml-latest-small)** → Movies and ratings dataset  
   🔗 [Download MovieLens Dataset](https://grouplens.org/datasets/movielens/)  
 
----
+
 
 ## ⚙️ Installation  
 
@@ -36,12 +36,12 @@ The system uses **content-based filtering** and **collaborative filtering** to g
 --> pip install numpy
 --> pip install matplotlib
 
-## git clone https://github.com/your-username/movie-recommender.git
+--> git clone https://github.com/your-username/movie-recommender.git
 cd movie-recommender
 
-## python -m venv venv
-source venv/bin/activate   # On Mac/Linux
-venv\Scripts\activate      # On Windows
+--> python -m venv venv
+==> source venv/bin/activate   # On Mac/Linux
+==> venv\Scripts\activate      # On Windows
 
 
 
